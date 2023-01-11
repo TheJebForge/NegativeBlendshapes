@@ -2,6 +2,9 @@
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that allows setting blendshapes negative using the slider. 
 
+![image](https://user-images.githubusercontent.com/12719947/211936713-cdf54a46-b1a6-417b-9c9e-166bacdf078c.png)
+
+
 Only works when you're the one hosting the world unless [LocalListEditors](https://github.com/TheJebForge/LocalListEditors) is also installed. 
 
 ## Installation
